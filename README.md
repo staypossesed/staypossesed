@@ -23,10 +23,8 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:2C3E50&height=110&section=header&text=About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:2C3E50&height=110&section=header&text=🚀%20About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-# 🚀 About Me
 
 - 📱 **Full-stack developer** experienced in **frontend, backend, and system architecture**
 - 🌐 Building **modern web platforms and SaaS applications**
@@ -39,14 +37,12 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=110&section=header&text=Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=110&section=header&text=🧠%20Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-# 🧠 Tech Stack
 
 ### Skills Overview (2026 Edition)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,golang,java,c,cplusplus,react,nextjs,tailwind,vite,html,css,nodejs,fastify,express,supabase,postgresql,prisma,aws,docker,electron,stripe,git&perline=13&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,golang,java,c,react,nextjs,tailwind,vite,html,css,nodejs,express,supabase,postgresql,prisma,aws,docker,electron,git&perline=13&theme=dark" />
 </p>
 
 ### Languages
@@ -88,10 +84,8 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6B21A8,50:A855F7,100:7C3AED&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6B21A8,50:A855F7,100:7C3AED&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff"/>
 </p>
-
-# 📦 Featured Projects
 
 ### 🤖 ThinkNest
 Multi-agent AI desktop application with multiple expert agents, authentication, and subscription system.
@@ -120,12 +114,12 @@ Frontend for a cryptocurrency trading platform.
 
 ---
 
-### ⚖️ Better Call Saul
+### ⚖️ [staypossesed](https://github.com/staypossesed/thinknest-snippets)
 Professional attorney services website.
 
 **Stack:** Express • Node.js  
 
-🔗 Repository: `ADD_LINK_HERE`
+🔗 [staypossesed](https://github.com/staypossesed)
 
 ---
 
@@ -156,21 +150,6 @@ Professional attorney services website.
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cutout&color=0:10B981,50:34D399,100:059669&height=110&section=header&text=Contribution%20Snake&fontSize=36&fontColor=ffffff"/>
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/staypossesed/staypossesed/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E3A8A,50:2563EB,100:1E40AF&height=110&section=header&text=Contact&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 # 📫 Contact
 
@@ -188,4 +167,4 @@ Professional attorney services website.
 
 ---
 
-⭐️ From [staypossesed](https://github.com/staypossesed)
+⭐️ Looking for Parnership and Job Offers [staypossesed](https://github.com/staypossesed) ⭐️ 

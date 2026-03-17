@@ -1,10 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ivan+Babushkin;Full+Stack+Software+Engineer;AI+%2F+LLM+Systems+Developer;Web+Platforms+%7C+Backend+Architecture;SaaS+%7C+FinTech+%7C+Automation+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ivan+Babushkin;@staypossesed;Full+Stack+Software+Engineer;AI+%2F+LLM+Systems+Developer;Web+Platforms+%7C+Backend+Architecture;SaaS+%7C+FinTech+%7C+Automation+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure" />
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=@staypossesed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
 
 <p align="center">
 ⚡ Building scalable software • 🚀 Shipping real products • 🤖 AI powered systems
@@ -23,8 +20,9 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:2C3E50&height=110&section=header&text=🚀%20About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=🚀%20About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
 
 - 📱 **Full-stack developer** experienced in **frontend, backend, and system architecture**
 - 🌐 Building **modern web platforms and SaaS applications**

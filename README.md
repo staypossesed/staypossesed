@@ -20,7 +20,7 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=🚀%20About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=🚀%20About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
@@ -82,7 +82,7 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=180&section=header&text=🌐%20Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=🌐%20Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ### 🤖 ThinkNest
@@ -121,7 +121,7 @@ Professional attorney services website.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=180&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
@@ -148,7 +148,7 @@ Professional attorney services website.
 
 ---
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=180&section=header&text=📫%20Contact%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=📫%20Contact%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 

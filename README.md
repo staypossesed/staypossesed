@@ -1,57 +1,76 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ivan+Babushkin;Full+Stack+Developer;TypeScript+%7C+React+%7C+Node.js;AI+%2F+LLM+Applications+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ivan+Babushkin;Full+Stack+Software+Engineer;AI+%2F+LLM+Systems+Developer;Web+Platforms+%7C+Backend+Architecture;SaaS+%7C+FinTech+%7C+Automation+Systems;React+%7C+Next.js+%7C+Node.js+%7C+Cloud+Infrastructure" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Ivan Babushkin</h1>
-<h3 align="center">Full-Stack Developer • AI / LLM Applications • Modern Web Systems</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ivan%20Babushkin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <p align="center">
-Building scalable applications, AI-powered tools, and modern web platforms.
+⚡ Building scalable software • 🚀 Shipping real products • 🤖 AI powered systems
+</p>
+
+<h2 align="center">👋 Hi, I'm Ivan Babushkin</h2>
+
+<p align="center">
+Full-Stack Software Engineer specializing in scalable web platforms, backend systems, SaaS products, and AI-powered applications.
+</p>
+
+<p align="center">
+I build modern software across the entire stack — from cloud infrastructure and APIs to responsive web applications and AI integrations.
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 **Full-stack developer** focused on the **TypeScript ecosystem**
-- 🤖 Building **AI / LLM powered applications**
-- ⚙️ Interested in **automation, scalable SaaS systems, and developer tools**
-- ☁️ Experience working with **cloud infrastructure and modern backend architectures**
-- 📈 Constantly improving engineering skills and building real-world projects
+- 💻 Full-stack developer experienced in **frontend, backend, and system architecture**
+- 🌐 Building **modern web platforms and SaaS applications**
+- 🤖 Developing **AI / LLM powered products**
+- ⚙️ Designing **backend APIs, automation systems, and scalable infrastructure**
+- 💳 Implementing **payments and financial systems (Stripe integrations)**
+- ☁️ Experience with **cloud services, databases, and production deployments**
+- 📈 Passionate about building **high-performance software that solves real problems**
 
 ---
 
 # 🧠 Tech Stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
 
-### Databases & ORM
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+### Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
 
 ### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 ### Desktop & Tools
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
 
@@ -96,11 +115,14 @@ Professional attorney services website.
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=staypossesed&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=staypossesed&theme=tokyonight&hide_border=true"/>
+</p>
 
+## 📊 Development Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=staypossesed&theme=github_dark"/>
 </p>
 
 ---

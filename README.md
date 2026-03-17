@@ -36,6 +36,10 @@ I build modern software across the entire stack — from cloud infrastructure an
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=110&section=header&text=🧠%20Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+
+  <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=180&section=header&text=🧠%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 </p>
 
 ### Skills Overview (2026 Edition)

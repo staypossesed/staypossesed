@@ -85,39 +85,32 @@ I build modern software across the entire stack — from cloud infrastructure an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=🌐%20Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-### 🤖 ThinkNest
+### 🤖 [ThinkNest](https://github.com/staypossesed/ThinkNest_Multi-Agent_App)
 Multi-agent AI desktop application with multiple expert agents, authentication, and subscription system.
 
-**Stack:** Electron • React • Fastify • Supabase • Ollama  
-
-🔗 Repository: `ADD_LINK_HERE`
+**Stack:** Electron • React • Fastify • Supabase • Ollama • Stripe
 
 ---
 
-### 🧠 AI-Automation-Bot
+### 🧠 [AI-Automation-Bot](https://github.com/staypossesed/better_call_saul)
 AI-powered automation dashboard with authentication and AI integrations.
 
 **Stack:** Next.js • Prisma • Clerk • Google AI  
 
-🔗 Repository: `ADD_LINK_HERE`
-
 ---
 
-### 💱 Ceta Exchange Crypto Trading Platform
+### 💱 [Ceta Exchange Crypto Trading Platform](https://github.com/staypossesed/better_call_saul)
 Frontend for a cryptocurrency trading platform.
 
 **Stack:** React • Vite • TypeScript  
 
-🔗 Repository: `ADD_LINK_HERE`
 
 ---
 
-### ⚖️ [staypossesed](https://github.com/staypossesed/thinknest-snippets)
+### ⚖️ [Better Call Saul](https://github.com/staypossesed/better_call_saul)
 Professional attorney services website.
 
 **Stack:** Express • Node.js  
-
-🔗 [staypossesed](https://github.com/staypossesed)
 
 ---
 

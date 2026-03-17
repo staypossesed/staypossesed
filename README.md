@@ -121,11 +121,8 @@ Professional attorney services website.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=150&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=150&section=header&text=📊%20GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-
-
-# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=staypossesed&show_icons=true&theme=tokyonight&hide_border=true"/>

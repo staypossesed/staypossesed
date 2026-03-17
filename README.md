@@ -35,7 +35,7 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
   <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=180&section=header&text=🧠%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=150&section=header&text=🧠%20Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ### Skills Overview (2026 Edition)
@@ -121,7 +121,7 @@ Professional attorney services website.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=150&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 

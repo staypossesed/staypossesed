@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=@Stay%20SPossesed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -22,9 +22,13 @@ I build modern software across the entire stack — from cloud infrastructure an
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:2C3E50&height=110&section=header&text=About%20Me&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 🚀 About Me
 
-- 💻 Full-stack developer experienced in **frontend, backend, and system architecture**
+- 📱 **Full-stack developer** experienced in **frontend, backend, and system architecture**
 - 🌐 Building **modern web platforms and SaaS applications**
 - 🤖 Developing **AI / LLM powered products**
 - ⚙️ Designing **backend APIs, automation systems, and scalable infrastructure**
@@ -34,7 +38,16 @@ I build modern software across the entire stack — from cloud infrastructure an
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E40AF,50:3B82F6,100:1E3A8A&height=110&section=header&text=Tech%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 🧠 Tech Stack
+
+### Skills Overview (2026 Edition)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,golang,java,c,cplusplus,react,nextjs,tailwind,vite,html,css,nodejs,fastify,express,supabase,postgresql,prisma,aws,docker,electron,stripe,git&perline=13&theme=dark" />
+</p>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -50,8 +63,8 @@ I build modern software across the entire stack — from cloud infrastructure an
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -73,6 +86,10 @@ I build modern software across the entire stack — from cloud infrastructure an
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6B21A8,50:A855F7,100:7C3AED&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 # 📦 Featured Projects
 
@@ -112,6 +129,10 @@ Professional attorney services website.
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F766E,50:14B8A6,100:0F766E&height=110&section=header&text=GitHub%20Stats&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -135,6 +156,10 @@ Professional attorney services website.
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=cutout&color=0:10B981,50:34D399,100:059669&height=110&section=header&text=Contribution%20Snake&fontSize=36&fontColor=ffffff"/>
+</p>
+
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -143,16 +168,20 @@ Professional attorney services website.
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E3A8A,50:2563EB,100:1E40AF&height=110&section=header&text=Contact&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 📫 Contact
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ivan-babushkin/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ibabushk@asu.edu">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>

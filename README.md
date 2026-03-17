@@ -82,6 +82,10 @@ I build modern software across the entire stack — from cloud infrastructure an
 ---
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=180&section=header&text=Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6B21A8,50:A855F7,100:7C3AED&height=110&section=header&text=Featured%20Projects&fontSize=36&fontColor=ffffff"/>
 </p>
 
@@ -121,6 +125,9 @@ Professional attorney services website.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:0F766E&height=180&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F766E,50:14B8A6,100:0F766E&height=110&section=header&text=GitHub%20Stats&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -148,8 +155,9 @@ Professional attorney services website.
 
 ---
 
-
-# 📫 Contact
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6B21A8,50:A855F7,100:7C3AED&height=110&section=header&text=📫%20Contact&fontSize=36&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 

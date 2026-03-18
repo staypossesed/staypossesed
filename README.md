@@ -40,7 +40,7 @@ I build modern software across the entire stack — from cloud infrastructure an
 
 ### Skills Overview (2026 Edition)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,golang,java,c,react,nextjs,tailwind,vite,html,css,nodejs,express,supabase,postgresql,prisma,aws,docker,electron,git&perline=13&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,golang,java,c,react,nextjs,tailwind,vite,html,css,nodejs,express,supabase,postgresql,prisma,aws,docker,electron,git,googlecloud&perline=13&theme=dark" />
 </p>
 
 ### Languages

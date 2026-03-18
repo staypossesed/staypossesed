@@ -72,7 +72,7 @@ I build modern software across the entire stack — from cloud infrastructure an
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/AWS-232F3E?logo=googlecloud)
+![Google Cloud](https://img.shields.io/badge/Googlecloud-232F3E?logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
 ### Desktop & Tools

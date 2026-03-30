@@ -93,7 +93,7 @@ Multi-agent AI desktop application with multiple expert agents, authentication, 
 
 ---
 
-### 🧠 [AI-Automation-Bot](https://github.com/staypossesed/better_call_saul)
+### 🧠 [AI-Automation-Bot](https://github.com/staypossesed/AI_Gmail_Automation)
 AI-powered automation dashboard with authentication and AI integrations.
 
 **Stack:** Next.js • Prisma • Clerk • Google AI  

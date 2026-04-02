@@ -110,7 +110,7 @@ Multi-agent AI desktop application with multiple expert agents, authentication, 
 ### ⚖️ [Better Call Saul](https://github.com/staypossesed/better_call_saul)
 Front end for Professional attorney services website. 
 
-**Stack:** Express • Node.js  
+**Stack:** CSS • HTML • Express • Node.js  
 
 ---
 

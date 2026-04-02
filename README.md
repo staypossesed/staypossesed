@@ -86,10 +86,10 @@ I build modern software across the entire stack — from cloud infrastructure an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=🌐%20Featured%20Projects&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-### 🤖 [ThinkNest](https://github.com/staypossesed/ThinkNest_Multi-Agent_App)
-Multi-agent AI desktop application with multiple expert agents, authentication, and subscription system.
+### 💱 [DO4U Automated Buy/Sell Platform](https://github.com/staypossesed/Do4U)
+Innovative platform which takes a description of your item(s), post it across 100+ platforms and speak with customers. You just need to find time for the meet up.
 
-**Stack:** Electron • React • Fastify • Supabase • Ollama • Stripe
+**Stack:**  Node.js  • TypeScript • Tailwind • Supabase • Grok + OpenAI
 
 ---
 
@@ -100,11 +100,10 @@ AI-powered automation dashboard with authentication and AI integrations.
 
 ---
 
-### 💱 [DO4U Automated Buy/Sell Platform](https://github.com/staypossesed/Do4U)
-Innovative platform which takes a description of your item(s), post it across 100+ platforms and speak with customers. You just need to find time for the meet up.
+### 🤖 [ThinkNest](https://github.com/staypossesed/ThinkNest_Multi-Agent_App)
+Multi-agent AI desktop application with multiple expert agents, authentication, and subscription system.
 
-**Stack:**  Node.js  • TypeScript • Tailwind • Supabase • Grok + OpenAI
-
+**Stack:** Electron • React • Fastify • Supabase • Ollama • Stripe
 
 ---
 
@@ -130,18 +129,6 @@ Front end for Professional attorney services website.
 </p>
 
 ---
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staypossesed&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:A855F7,100:7C3AED&height=150&section=header&text=📫%20Contact%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 
 <p align="center">
 

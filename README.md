@@ -100,16 +100,16 @@ AI-powered automation dashboard with authentication and AI integrations.
 
 ---
 
-### 💱 [DO4U Automated Buy/Sell Platform](https://github.com/staypossesed/better_call_saul)
+### 💱 [DO4U Automated Buy/Sell Platform](https://github.com/staypossesed/Do4U)
 Innovative platform which takes a description of your item(s), post it across 100+ platforms and speak with customers. You just need to find time for the meet up.
 
-**Stack:** React • Vite • TypeScript  
+**Stack:**  Node.js  • TypeScript • Tailwind • Supabase • Grok + OpenAI
 
 
 ---
 
 ### ⚖️ [Better Call Saul](https://github.com/staypossesed/better_call_saul)
-Professional attorney services website.
+Front end for Professional attorney services website. 
 
 **Stack:** Express • Node.js  
 

@@ -100,8 +100,8 @@ AI-powered automation dashboard with authentication and AI integrations.
 
 ---
 
-### 💱 [Ceta Exchange Crypto Trading Platform](https://github.com/staypossesed/better_call_saul)
-Frontend for a cryptocurrency trading platform.
+### 💱 [DO4U Automated Buy/Sell Platform](https://github.com/staypossesed/better_call_saul)
+Innovative platform which takes a description of your item(s), post it across 100+ platforms and speak with customers. You just need to find time for the meet up.
 
 **Stack:** React • Vite • TypeScript  
 
